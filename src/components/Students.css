@@ -1,0 +1,37 @@
+.students {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .students-header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .students-header h1 {
+    margin: 0;
+    color: #343a40;
+  }
+  
+  .life-activities {
+    margin-top: 20px;
+  }
+  
+  .life-activities h2 {
+    color: #007bff;
+  }
+  
+  .life-activities h3 {
+    color: #007bff;
+  }
+  
+  .life-activities ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .life-activities li {
+    margin: 5px 0;
+  }
+  

@@ -1,0 +1,78 @@
+.contact-us {
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .contact-us-header {
+    background-color: #f5f5f5;
+    padding: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .contact-details {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .contact-details h2 {
+    margin-top: 20px;
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .contact-details p {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  .contact-form {
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  
+  .contact-form form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .contact-form label {
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #333;
+  }
+  
+  .contact-form input,
+  .contact-form textarea {
+    margin-top: 5px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .contact-form button {
+    margin-top: 10px;
+    padding: 10px 15px;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .contact-form button:hover {
+    background-color: #0056b3;
+  }
+  
+  .google-maps {
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  
+  .google-maps iframe {
+    width: 100%;
+    border: 0;
+  }
+  

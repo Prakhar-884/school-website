@@ -1,0 +1,45 @@
+.gallery {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .gallery-header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .gallery-header h1 {
+    margin: 0;
+    color: #343a40;
+  }
+  
+  .photos, .videos {
+    margin-top: 20px;
+  }
+  
+  .photos h2, .videos h2 {
+    color: #007bff;
+  }
+  
+  .gallery-images {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .gallery-images img {
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+    margin: 10px;
+  }
+  
+  .video-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .video-list video {
+    margin: 10px;
+  }
+  

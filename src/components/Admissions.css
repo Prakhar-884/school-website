@@ -1,0 +1,33 @@
+.admissions {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .admissions-header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .admissions-header h1 {
+    margin: 0;
+    color: #343a40;
+  }
+  
+  .process-criteria {
+    margin-top: 20px;
+  }
+  
+  .process-criteria h2 {
+    color: #007bff;
+  }
+  
+  .process-criteria ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .process-criteria li {
+    margin: 5px 0;
+  }
+  

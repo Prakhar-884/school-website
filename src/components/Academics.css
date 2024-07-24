@@ -1,0 +1,28 @@
+.academics {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .academics-header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .academics-header h1 {
+    margin: 0;
+    color: #343a40;
+  }
+  
+  .curriculum, .methodologies-resources {
+    margin-top: 20px;
+  }
+  
+  .curriculum h2 {
+    color: #007bff;
+  }
+  
+  .methodologies-resources p {
+    margin: 10px 0;
+  }
+  

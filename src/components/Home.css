@@ -1,0 +1,106 @@
+/* General styles for the Home component */
+.bg-light {
+  background-color: #f8f9fa !important;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.py-4 {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+header {
+  position: relative;
+  margin-bottom: 2rem;
+}
+
+/* Header content and menu icon styles */
+.header-content {
+  position: relative;
+}
+
+.menu-icon {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+/* Quick Links styles */
+.quick-links {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: #ffffff;
+  width: 250px; /* Adjust width as needed */
+  padding: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: none;
+  transition: transform 0.3s ease-in-out;
+}
+
+.quick-links.open {
+  display: block;
+}
+
+.quick-links h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: #343a40; /* Darker text color for better readability */
+}
+
+.quick-links ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.quick-links li {
+  margin: 0.5rem 0;
+}
+
+.quick-links a {
+  text-decoration: none;
+  color: #007bff; /* Primary blue color */
+  font-size: 1.2rem;
+}
+
+.quick-links a:hover {
+  text-decoration: underline;
+  color: #0056b3; /* Darker blue on hover */
+}
+
+.quick-links a:visited {
+  color: #6c757d; /* Muted color for visited links */
+}
+
+/* Carousel styles */
+.carousel-item img {
+  height: 400px; /* Adjust height as needed */
+  object-fit: cover; /* Ensures image covers the container */
+}
+
+/* Footer styles */
+footer {
+  margin-top: 2rem;
+  padding: 1rem;
+  background-color: #343a40;
+  color: #fff;
+  text-align: center;
+}
+
+footer p {
+  margin: 0;
+}
+
+footer a {
+  color: #17a2b8;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
