@@ -20,34 +20,34 @@ To get a local copy of the project up and running, follow these steps:
 1. **Clone the Repository**
 
    ### bash
-   git clone https://github.com/Prakhar-884/school-website.git
+   "git clone https://github.com/Prakhar-884/school-website.git"
 Navigate to the Project Directory
 
 ### bash
-cd school-website
+"cd school-website"
 Install Dependencies
 
 ### bash
-npm install
+"npm install"
 Running the Application
 To start the development server:
 
 ### bash
-npm start
+"npm start"
 Open http://localhost:3000 in your browser to view the application. The page will reload when you make changes.
 
 ### Building for Production
 To build the application for production:
 
 ### bash
-npm run build
+"npm run build"
 This will create a build folder with optimized files ready for deployment.
 
 ### Testing
 To run tests:
 
 ### bash
-npm test
+"npm test"
 Deployment
 For deployment, you can use Vercel or any other hosting service. Ensure you follow their specific deployment instructions.
 
